@@ -4,7 +4,8 @@
   "description": "TypeScript integration in  Node-Express-Project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node dist/app.js"
   },
   "author": "Thejus",
   "license": "ISC",
